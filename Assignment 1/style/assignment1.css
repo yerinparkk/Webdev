@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+}
+
+.title {
+    font-size: 100px;
+}
+.ur_Mom {
+    font-size: 50px;
+    color: red
+}
+
+.linktovlog {
+    color:rgb(17, 21, 250);
+    margin: 40px;
+}
+
+.oski {
+    margin:5px;
+}
+
+.zerotwo {
+    margin:5px;
+}
+
+.peanutbutterbaby {
+    margin:5px;
+}
+
+.yeyeee {
+    font-size: 10px;
+    color: darkgray
+}
+
+.stuffILike {
+    font-size: 15px;
+    color:darkviolet
+}
+
+#elon-musk-is-daddy {
+    margin: 40px;
+    color: rgb(67, 0, 155)
+    height: 40px;
+}
